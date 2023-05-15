@@ -52,7 +52,7 @@ Make sure you have a device connected (physical device or emulator) before runni
 
 ## APK Release
 
-You can find the latest release APK file [https://drive.google.com/drive/folders/1TI2Lek0NC-SetsAP3kfa1ezVJzCxUPYq?usp=sharing](link_to_apk_release).
+You can find the latest release APK file [https://drive.google.com/drive/folders/17KdpjqMHjE4PaByZUwI4x7WjWMsvLfB2?usp=sharing](link_to_apk_release).
 
 ## Contributing
 
